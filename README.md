@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Raichung <span><img src="https://my-blog-6969.herokuapp.com/weathericon" /></span></h1>
 
-<h3>A passionate front-end developer from Nepal</h3>
+<h3>A passionate web developer from Nepal</h3>
 
 <br>
 
