@@ -38,8 +38,6 @@
     <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" title="React Js" width="50" height="50" />
     <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="mysql" title="MySql" width="50" height="50" />
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" title="Firebase" width="50" height="50" />
-    <img src="https://img.icons8.com/color/128/000000/dart.png" alt="dart" title="Dart" width="50" height="50" />
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" title="Flutter" width="50" height="50" />
     <img src="https://img.icons8.com/color/128/000000/git.png" alt="git" title="Git" width="50" height="50" />
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code" title="VS Code"  width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" title="Figma" width="50" height="50" />
