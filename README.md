@@ -33,6 +33,8 @@
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" title="Html" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" title="CSS" width="50" height="50" />
     <img src="https://img.icons8.com/color/128/000000/bootstrap.png" alt="bootstrap" title="Bootstrap" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/flutter.png" alt="flutter" title="Flutter" width="50" height="50" />
+    <img src="https://img.icons8.com/color/128/000000/dart.png" alt="dart" title="Dart" width="50" height="50" />
     <img src="https://img.icons8.com/color/128/000000/react-native.png" alt="react" title="React Js" width="50" height="50" />
     <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="mysql" title="MySql" width="50" height="50" />
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" title="Firebase" width="50" height="50" />
